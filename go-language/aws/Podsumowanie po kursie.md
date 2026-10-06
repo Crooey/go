@@ -1,0 +1,12 @@
+- Warto powtórzyć sobie:
+	- Load Balancing
+	- Autoscaling Groups
+		- Tworzenie templates itp
+	- Network
+		- NAT gateway
+		- Routing Table
+		- VPC
+	- IAM
+		- Dokładnie to warto doczytać sobie takie podstawy:
+			- konto root
+			- konta IAM itp

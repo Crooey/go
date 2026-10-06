@@ -1,0 +1,1 @@
+Instrukcja jest pisana w aplikacji obsidian, i wszystko jest zapisywane w katalogu go-language
